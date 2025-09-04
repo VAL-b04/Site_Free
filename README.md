@@ -94,5 +94,5 @@ Validation EcoIndex :  [Détail ici](https://www.ecoindex.fr/resultat/?id=9cfaa3
 
 ## Contributeurs
 
-![Image des Contributeurs tout au lng du projet](Image/contributors.png)
+
 

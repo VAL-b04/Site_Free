@@ -9,17 +9,16 @@
 [Lien du repository Bitbucket]()
 
 ### Membre du groupe :
-- [ (référent)](mailto:)
+- [ADAM BAJIC (référent)](mailto:adam.bajic@edu.univ-fcomte.fr)
 - [VALENTIN BEURET](mailto:valentin.beuret@edu.univ-fcomte.fr)
-- [](mailto:@edu.univ-fcomte.fr)
-- [](mailto:@edu.univ-fcomte.fr)
-- [](mailto:@edu.univ-fcomte.fr)
+- [BALQIS AMIOUR](mailto:balqis.amiour@edu.univ-fcomte.fr)
+- [LUKAS BENDIAF](mailto:lukas.bendiaf@edu.umlp.fr)
 
 ### Présentation du sujet :  
 Création d'un site qui a pour but de de présenter l'entreprise Bouygues Telecom tout en respectent un cahier des charges que nous avons nous même suggéré.
 
 ### Choix de conception :  
-Pour la création de ce site web, il y a plusieurs sites qu'ils nous ont inspiré comme celui officiel de Bouygues Telecom, [Site officiel de Bouygues Telecom](https://www.bouyguestelecom.fr/?utm_medium=sea_c&utm_source=google&utm_campaign=bouygues-m-variantes&utm_term=site%20bouygues%20telecom&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3kt3aCkKpDOYeGZzhFwz80ZyEf1iArkPgwgG5LULX5eaV2x32tiksKBoCi3gQAvD_BwE), et du site EDF invest, [site de EDF Invest](https://www.edfinvest.fr/). 
+Pour la création de ce site web, il y a plusieurs sites qu'ils nous ont inspiré comme celui officiel de Bouygues Telecom, [Site officiel de Bouygues Telecom](https://www.bouyguestelecom.fr/?utm_medium=sea_c&utm_source=google&utm_campaign=bouygues-m-variantes&utm_term=site%20bouygues%20telecom&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3kt3aCkKpDOYeGZzhFwz80ZyEf1iArkPgwgG5LULX5eaV2x32tiksKBoCi3gQAvD_BwE), et du site EDF invest, [Site de EDF Invest](https://www.edfinvest.fr/). 
 
 ### Développement Site Web et Validation des pages
 

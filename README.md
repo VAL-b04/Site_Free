@@ -15,7 +15,7 @@
 - [LUKAS BENDIAF](mailto:lukas.bendiaf@edu.umlp.fr)
 
 ### Présentation du sujet :  
-Ce dépôt corresponds à un site web HTML/CSS/JS dans le cadre de la SAÉ n°1 à propos des compétences 05 et 06 à l'IUT de Belfort-Montbéliard.
+Ce dépôt correspond à un site web HTML/CSS/JS dans le cadre de la SAÉ n°1 à propos des compétences 05 et 06 à l'IUT de Belfort-Montbéliard.
 Il s'agit d'un site vitrine à propos de l'entreprise Free pour présenter ses activités, son histoire, son modèle économique et son engagement par rapport au développement durable.
 
 ### Choix de conception :  

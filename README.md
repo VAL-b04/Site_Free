@@ -21,6 +21,7 @@ Il s'agit d'un site vitrine à propos de l'entreprise Free pour présenter ses a
 ### Choix de conception :  
 Afin de créer ce site web, nous nous sommes inspiré de plusieurs site :
 - Le site de Free (disponible [ici](https://www.free.fr/freebox/))
+- Le site de LVMH (disponible [ici]((https://www.lvmh.com/fr))
 
 ### Développement Site Web et Validation des pages
 

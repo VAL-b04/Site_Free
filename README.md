@@ -22,6 +22,7 @@ Il s'agit d'un site vitrine à propos de l'entreprise Free pour présenter ses a
 Afin de créer ce site web, nous nous sommes inspiré de plusieurs site :
 - Le site de Free (disponible [ici](https://www.free.fr/freebox/))
 - Le site de LVMH (disponible [ici](https://www.lvmh.com/fr/))
+- Le site d'EDF (disponible [ici](https://www.edfinvest.fr/))
 
 ### Développement Site Web et Validation des pages
 

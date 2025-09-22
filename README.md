@@ -22,25 +22,17 @@ Afin de créer ce site web, nous nous sommes inspiré de plusieurs site :
 
 ### Page d'accueil 
 
-Auteur :   
+Auteur : Adam BAJIC
 
 ### Histoire
 
-Auteur :   
+Auteur : Lukas BENDIAF
 
-### Modèle Economique
+### Économie
 
-Auteur :   
-
-### Développement Durable
-
-Auteur :    
+Auteur :     
 
 ### Actualité
-
-Auteur :   
-
-### Contact
 
 Auteur :   
 

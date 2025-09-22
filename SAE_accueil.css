@@ -126,7 +126,7 @@ header
     width: auto;
     height: auto;
 
-    text-align:;
+    text-align: center;
 }
 
 .presentation h1
@@ -152,4 +152,5 @@ header
     text-align: center;
     padding: 40px;
 }
+
 

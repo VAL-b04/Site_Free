@@ -30,11 +30,11 @@ Auteur : Lukas BENDIAF
 
 ### Économie
 
-Auteur :     
+Auteur : Valentin BEURET
 
 ### Actualité
 
-Auteur :   
+Auteur : Valentin BEURET
 
 
 

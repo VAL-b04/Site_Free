@@ -29,73 +29,27 @@ Afin de créer ce site web, nous nous sommes inspiré de plusieurs site :
 ### Page d'accueil 
 
 Auteur :   
-Vérification W3C : [Détail ici]()
-![image]()
-Validation EcoIndex : [Détail ici]()  
-![image]()
 
 ### Histoire
 
 Auteur :   
-Vérification W3C : [Détail ici]()
-![image]()
-Validation EcoIndex : [Détail ici]()  
-![image]()
-
 
 ### Modèle Economique
 
 Auteur :   
-Vérification W3C : [Détail ici]()
-![image]()
-Validation EcoIndex : [Détail ici]()  
-![image]()
 
 ### Développement Durable
 
 Auteur :    
-Vérification W3C : [Détail ici]()
-![image]()
-Validation EcoIndex : [Détail ici]()  
-![image]()
 
 ### Actualité
 
 Auteur :   
-Vérification W3C : [Détail ici]()
-![image]()
-Validation EcoIndex : [Détail ici]()  
-![image]()
 
 ### Contact
 
 Auteur :   
-Vérification W3C : [Détail ici]()
-![image]()
-Validation EcoIndex : [Détail ici]()  
-![image]()
 
-
-### Répartition du travail
-
-### Planification - Diagramme de GANTT
-
-
-
-### Recherches d'informations
-
-
-
-### Rapport économique
-
-
-
-
-### Développement site
-
-
-
-## Contributeurs
 
 
 

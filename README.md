@@ -2,12 +2,6 @@
 [Lien du Github Pages](https://val-b04.github.io/Site_Free/)     
 [Lien du repository Github](https://github.com/VAL-b04/Site_Free)  
 
-[Lien Gitlab Pages]()  
-[Lien du repository Gitlab]()
-
-[Lien BitBucket Pages]()  
-[Lien du repository Bitbucket]()
-
 ### Membre du groupe :
 - [ADAM BAJIC (référent)](mailto:adam.bajic@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 - [VALENTIN BEURET](mailto:valentin.beuret@edu.univ-fcomte.fr?subject=SAE_1_05_06)

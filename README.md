@@ -18,7 +18,7 @@ Afin de créer ce site web, nous nous sommes inspiré de plusieurs site :
 - Le site de LVMH (disponible [ici](https://www.lvmh.com/fr/))
 - Le site d'EDF (disponible [ici](https://www.edfinvest.fr/))
 
-### Développement Site Web et Validation des pages
+### Développement des pages Web et validation des pages
 
 ### Page d'accueil 
 

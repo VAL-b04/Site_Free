@@ -5,7 +5,6 @@
 ### Membre du groupe :
 - [ADAM BAJIC (référent)](mailto:adam.bajic@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 - [VALENTIN BEURET](mailto:valentin.beuret@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-- [BALQIS AMIOUR](mailto:balqis.amiour@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 - [LUKAS BENDIAF](mailto:lukas.bendiaf@edu.umlp.fr?subject=SAE_1_05_06)
 
 ### Présentation du sujet :  

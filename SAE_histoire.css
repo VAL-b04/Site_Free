@@ -149,7 +149,83 @@ header
 {
     background-color: #333;
     color: #fff;
-    text-align: center;
-    padding: 40px;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-evenly;
 }
 
+
+.contenu_footer1{
+    display: block;
+    justify-items: center;
+    margin-left: 40px;
+}
+
+.titre_contact{
+    margin-bottom: 10px;
+}
+
+.image_contact{
+    height: 50px;
+    width: fit-content;
+    margin: 0;
+    padding: 0 10px;
+    padding-top: 6px;
+
+    background-color: #474747;
+    border-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap : 12px;
+
+}
+
+.img_footer:hover{
+    opacity: 0.5;
+    transition: ease-in-out 0.2s;
+}
+
+.img_footer{
+    width: 40px;
+    height: 40px;
+}
+
+.contenu_footer2{
+    display: block;
+    justify-items: center;
+}
+
+.boutique_texte{
+    padding: 20px 0;
+}
+
+.button2
+{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2b2a2a;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 60px;
+    margin: 0 15px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.button2:hover
+{
+    background-color: #474747;
+}
+
+.contenu_footer3{
+    display: block;
+    justify-items: center;
+    margin-right: 40px;
+}
+
+.logo_footer{
+    height: 140px;
+    width: 140px;
+}

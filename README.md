@@ -35,9 +35,6 @@ Auteur : Valentin BEURET
 
 Auteur : Valentin BEURET
 
-### Contact
-
-Auteur : Adam BAJIC
 
 
 

@@ -23,17 +23,18 @@ Afin de créer ce site web, nous nous sommes inspiré de plusieurs site :
 
 Auteur : Adam BAJIC
 
-### Histoire
-
-Auteur : Lukas BENDIAF
-
 ### Économie
 
 Auteur : Valentin BEURET
 
+### Histoire
+
+Auteur : Lukas BENDIAF
+
 ### Actualité
 
 Auteur : Valentin BEURET
+
 
 
 

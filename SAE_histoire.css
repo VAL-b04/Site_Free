@@ -1,4 +1,3 @@
-
 /* Styles globaux */
 *
 {
@@ -20,18 +19,18 @@ body
 .nav
 {
     position: fixed;
-    top: 80px;
-    bottom: 40px;
+    top: clamp(40px, 8vh, 80px);
+    bottom: clamp(20px, 4vh, 40px);
     left: 0;
 
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
 
     background-color: #fff;
-    padding: 40px 20px;
-    width: 200px;
+    padding: clamp(20px, 4vh, 40px) clamp(10px, 2vw, 20px);
+    width: clamp(120px, 15vw, 200px);
     height: 77vh;
 
     box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
@@ -42,13 +41,13 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }
 
 .logo img
 {
     height: auto;
-    width: 120px;
+    width: clamp(50px, 8vw, 120px);
 }
 
 .menu
@@ -56,47 +55,52 @@ body
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex: 1;
 
-    gap: 50px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    gap: clamp(15px, 4vh, 50px);
+    margin: 0;
 }
 
 .menu>a
 {
-    font-size: 20px;
+    font-size: clamp(14px, 1.5vw, 20px);
+    width: 100%;
 }
 
 .button
 {
     color: #333;
     text-decoration: none;
-    padding: 15px 20px;
+    padding: clamp(8px, 1.2vh, 15px) clamp(8px, 1.5vw, 20px);
     transition: background-color 0.3s, padding-left 0.3s;
     font-weight: 600;
-    font-size: 16px;
+    font-size: clamp(10px, 1vw, 16px);
     border-radius: 6px;
     text-align: center;
+    display: block;
 }
 
 .button:hover
 {
     background-color: #e0e0e0;
-    padding-left: 25px;
 }
 
 .lang-switch
 {
     color: #333;
     text-decoration: none;
-    padding: 15px 20px;
+    padding: clamp(8px, 1.2vh, 15px) clamp(8px, 1.5vw, 20px);
 
     border: 2px solid #333;
     border-radius: 6px;
     transition: all 0.3s ease;
     font-weight: 600;
+    font-size: clamp(10px, 1vw, 16px);
     text-align: center;
-    margin-top: auto;
+    width: 100%;
+    display: block;
 }
 
 .lang-switch:hover
@@ -109,9 +113,9 @@ body
 /* Section principale */
 .page
 {
-    width: calc(100% - 200px);
+    width: calc(100% - clamp(120px, 15vw, 200px));
     height: 100vh;
-    margin-left: 200px;
+    margin-left: clamp(120px, 15vw, 200px);
 
     display: flex;
     justify-content: space-around;
@@ -131,6 +135,7 @@ body
     justify-content: center;
     align-items: center;
 }
+
 .presentation
 {
     width: auto;
@@ -141,16 +146,16 @@ body
 
 .presentation h1
 {
-    font-size: 3.5rem;
+    font-size: clamp(2rem, 4vw, 3.5rem);
     color: #333;
     font-weight: 300;
 }
 
 .presentation p
 {
-    font-size: 20px;
+    font-size: clamp(1rem, 2vw, 1.8rem);
     color: #666;
-    max-width: 1000px;
+    max-width: 600px;
     margin: 0 auto;
 }
 
@@ -160,7 +165,7 @@ body
 {
     background-color: #333;
     color: #fff;
-    padding: 40px 0;
+    padding: clamp(20px, 4vh, 40px) 0;
     display: flex;
     justify-content: space-evenly;
 }
@@ -169,17 +174,18 @@ body
 {
     display: block;
     justify-items: center;
-    margin-left: 40px;
+    margin-left: clamp(20px, 4vw, 40px);
 }
 
 .titre_contact
 {
     margin-bottom: 10px;
+    font-size: clamp(14px, 1.5vw, 18px);
 }
 
 .image_contact
 {
-    height: 50px;
+    height: clamp(40px, 5vh, 50px);
     width: fit-content;
     margin: 0;
     padding: 0 10px;
@@ -191,8 +197,7 @@ body
     display: flex;
     align-items: center;
     justify-content: center;
-    gap : 12px;
-
+    gap: clamp(8px, 1vw, 12px);
 }
 
 .img_footer:hover
@@ -203,8 +208,8 @@ body
 
 .img_footer
 {
-    width: 40px;
-    height: 40px;
+    width: clamp(30px, 3vw, 40px);
+    height: clamp(30px, 3vw, 40px);
 }
 
 .contenu_footer2
@@ -215,7 +220,8 @@ body
 
 .boutique_texte
 {
-    padding: 20px 0;
+    padding: clamp(10px, 2vh, 20px) 0;
+    font-size: clamp(12px, 1.2vw, 16px);
 }
 
 .button2
@@ -224,8 +230,8 @@ body
     color: #ffffff;
     background-color: #2b2a2a;
     font-weight: 600;
-    font-size: 20px;
-    padding: 20px 60px;
+    font-size: clamp(14px, 1.8vw, 20px);
+    padding: clamp(12px, 2vh, 20px) clamp(30px, 5vw, 60px);
     margin: 0 15px;
     border-radius: 8px;
     transition: background-color 0.3s;
@@ -240,11 +246,16 @@ body
 {
     display: block;
     justify-items: center;
-    margin-right: 40px;
+    margin-right: clamp(20px, 4vw, 40px);
 }
 
 .logo_footer
 {
-    height: 140px;
-    width: 140px;
+    height: clamp(80px, 12vh, 140px);
+    width: clamp(80px, 12vw, 140px);
+}
+
+.auteur_footer
+{
+    font-size: clamp(10px, 1vw, 14px);
 }
